@@ -1,4 +1,4 @@
-import './App1.css';
+
 function About(){
    
     return(
@@ -7,6 +7,7 @@ function About(){
             <input type = "text"/>
             <p>Email</p>
             <input type = "text"/>
+            <p><button>Submit</button></p>
         </div>
     )
 }
