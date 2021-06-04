@@ -1,0 +1,12 @@
+.nav{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.App1{
+    text-align: center;
+}
+.link{
+    text-decoration: none;
+}
