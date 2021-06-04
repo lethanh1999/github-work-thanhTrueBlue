@@ -1,13 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App1 from './App1';
+//  import App from './App';
 // import NumberList from './App3';
 // import LoginControl from './Render';
+import Example from './Hook';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App1 />
+    <Example />
   </React.StrictMode>,
   document.getElementById('root')
 );
